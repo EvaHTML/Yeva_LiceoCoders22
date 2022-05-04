@@ -18,3 +18,7 @@ local a un repositorio remoto. El envío es la forma de transferir confirmacione
 desde tu repositorio local a un repositorio remoto. Es el equivalente a git fetch, 
 pero mientras que al recuperar se importan las confirmaciones a ramas locales, al 
 enviar estas se exportan a ramas remotas.
+
+
+
+Muy bien, 10/10!!
