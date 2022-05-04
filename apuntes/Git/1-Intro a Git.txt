@@ -1,1 +1,20 @@
 Commit, Fetch, Pull y Push
+
+Función Commit: El comando git commit captura una instantánea
+ de los cambios preparados en ese momento del proyecto. Las instantáneas 
+ confirmadas pueden considerarse como versiones "seguras" de un proyecto: 
+ Git no las cambiará nunca a no ser que se lo pidas expresamente.
+
+Función Fetch: El comando git fetch descarga commits, archivos y referencias 
+de un repositorio remoto a tu repositorio local. Esta acción la llevas a cabo 
+cuando quieres ver en qué han estado trabajando los demás.
+
+Función Pull: El comando git pull se emplea para extraer y descargar contenido 
+desde un repositorio remoto y actualizar al instante el repositorio local para 
+reflejar ese contenido.
+
+Función Push: El comando git push se usa para cargar contenido del repositorio 
+local a un repositorio remoto. El envío es la forma de transferir confirmaciones 
+desde tu repositorio local a un repositorio remoto. Es el equivalente a git fetch, 
+pero mientras que al recuperar se importan las confirmaciones a ramas locales, al 
+enviar estas se exportan a ramas remotas.
