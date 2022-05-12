@@ -1,0 +1,12 @@
+Añadir en el repositorio a un colaborador (clonar repositorio de la pareja > link URL a crear nuevo en la APP >David en mi caso) 
+que pueda modificar archivos.
+Mandar el link del repositorio al compañero.
+Al recibir el link, ir a la aplicación del Gthub desktop y darle a la opción clonar nuevo repositorio con el link 
+recibido una vez allí seleccionar carpeta dónde clonar.
+Entrar en el repositorio del compañero y modificar el txt (o desde la web o desde el archivo local), 
+aplicar cambios (commit to main) y darle al fetch.
+Ver en github los cambios.
+
+Clonar repositorio de la pareja (link URL a crear nuevo en la APP)
+Hacer comentarios sobre el texto anterior (en Visual Studio, guardar cambios)
+Publicar cambios.
