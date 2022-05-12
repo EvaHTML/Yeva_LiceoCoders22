@@ -1,5 +1,0 @@
-Añadir repositirio un coloborador que puede modificar los archivos
-Mandar el link
-Al recibir el link del compañero entrar en su repositorio 
-Clonar repositorio en la carpeta GitHub en Descktop
-Modificar desde la app en su repositorio clonado el archivo
